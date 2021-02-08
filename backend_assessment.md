@@ -1,5 +1,4 @@
 ## Part I: Creating Directories and Files; Initializing Git and Pushing to GitHub (10 min)
-
 1. Use your terminal to create a directory called `mod_0_skills`
 1. Inside of that directory, make an empty text file called `variables.txt`
 1. Initialize `mod_0_skills` as a git repository.
@@ -7,7 +6,22 @@
 1. Create a public repo on Github with the same name (`mod_0_skills`).
 1. Add the remote and push your local repository to Github.
 
-## Part II: Classes, Objects, Attributes, and Methods (40 min)
+## Part II: Program Specific Challenge (20 min)
+1. Open up your `variables.txt` file in your text editor.
+1. Assign a variable called `movie` to a string value of your choosing
+1. Assign a variable called `isEntertaining` to a boolean value
+1. Re-assign your `movie` variable to a new string
+1. Assign a variable called `num4` to a numerical value
+1. Assign a variable called `num6` to a different numerical value
+1. Multiply `num6` by `num4` and store the result in a variable called `product`
+1. Assign a variable called `favoriteFoods` to an array of three strings
+1. Write a line of code that removes the first element from the `favoriteFoods` array - **You may use Google for this task**
+1. Write a line of code that prints how many characters there are in the `movie` string - **You may use Google for this task**
+1. Save your file.
+1. Add and commit your changes with the message "Complete program specific challenge"
+1. Push your changes to Github.
+
+## Part III: Classes, Objects, Attributes, and Methods (40 min)
 1. Inside of `mod_0_skills`, create a new directory called `classes`.
 1. Inside of `classes`, create four files:
     - `class_1.txt` 
@@ -31,18 +45,3 @@ List at least four attributes for that class. In parentheses, list the data type
 1. Repeat steps 3-8 with `class_2.txt`.
 1. Repeat steps 9-14 with `class_2_example_instance.txt`.
 1. Push your changes to GitHub.
-
-## Part III: Program Specific Challenge (20 min)
-1. Open up your `variables.txt` file in your text editor.
-1. Assign a variable called `movie` to a string value of your choosing
-1. Assign a variable called `is_entertaining` to a boolean value
-1. Re-assign your `movie` variable to a new string
-1. Assign a variable called `num_4` to a numerical value
-1. Assign a variable called `num_6` to a different numerical value
-1. Multiply `num_6` by `num_4` and store the result in a variable called `product`
-1. Assign a variable called `favorite_foods` to an array of three strings
-1. Write a line of code that removes the first element from the `favorite_foods` array - **You may use Google for this task**
-1. Write a line of code that prints how many characters there are in the `movie` string - **You may use Google for this task**
-1. Save your file.
-1. Add and commit your changes with the message "Complete program specific challenge"
-1. Push your changes to Github.
