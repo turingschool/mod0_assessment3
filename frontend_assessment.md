@@ -32,7 +32,7 @@
     - *If you're comfortable trying markdown at this point, feel free to use .md instead of .txt*
 
 1. Open up `class_1.txt` in your text editor.
-1. Brainstorm one class that might exist in a **BANK** and put this at the top of the file.
+1. Brainstorm one class that might exist in a **AIRPORT** and put this at the top of the file.
 List at least four attributes for that class. In parentheses, list the data type for that attribute.
 1. List at least four methods for that class. In parentheses, explain what the method does, including the names of the attributes that it uses or modifies.
 1. Save your file.
